@@ -67,7 +67,7 @@
 - https://codesandbox.io/s/suspicious-cloud-f7qmk?file=/src/friends.js
 
 
-#### React JS State and Props [#02]
+### React JS State and Props [#02]
 
 | Topics                                             | status      | Slide                                                                           | Sandbox                                                             | github |
 | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
@@ -81,7 +81,7 @@
 | Simple Form Live Demo Login and Register Demo	                              | done |
 
 
-#### Day-2 Examples Links 
+### Day-2 Examples Links 
 
 - https://codesandbox.io/s/jovial-bose-hkimg?file=/src/weather.js
 - https://codesandbox.io/s/confident-buck-t4s1n?file=/src/App.js
