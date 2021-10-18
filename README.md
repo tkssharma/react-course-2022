@@ -67,21 +67,21 @@
 - https://codesandbox.io/s/suspicious-cloud-f7qmk?file=/src/friends.js
 
 
-
 #### React JS State and Props [#02]
 
 | Topics                                             | status      | Slide                                                                           | Sandbox                                                             | github |
 | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
-| What is React JS                                   | done| https://slides.com/tkssharmaa/introduction-to-react-232                         |
-| Introduction of React JS [P]                       | done | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
-| Environment Setup [L]                              | done | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
-| Project Setup [L]                                  | done |                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
-| A Taste of JSX [p]                                 | done|                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
-| A Taste of Node & NPM [L]                          | done |
-| Startup with Webpack loader [L]                    | done | https://slides.com/tkssharmaa/webpack-deck-112#/3/0/0                           |
-| A Taste of ES6 [p]                                 | done |
-| A Taste of Transpilers [p]                         | done | https://slides.com/tkssharmaa/deck-6b2c9b86-147b-4de3-9405-8351df9df996-111#/10 |
-| Hello World with React JS (with NPM + webpack) [L] | TBD |
-| React using create react app                       | done|                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
-| React using sandbox Hello world                    | done |                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
+|  Quick Recap - React Concepts                                | |                         |
+|   Functional Components/class components                      | done |                                 |
+| 	Event Handling DOM events [L]		                           | done |                               |
+| 	Event Handling in React component [P]		                                | done |                                                                                 |  |
+| 	Weather app live code demo	                              | done|                                                                                 |  |
+| flicker app live demo                        | done |
+| Todo App live demo                 | done | https://slides.com/tkssharmaa/webpack-deck-112#/3/0/0                           |
+| Simple Form Live Demo Login and Register Demo	                              | done |
 
+
+#### Day-2 Examples Links 
+
+- https://codesandbox.io/s/jovial-bose-hkimg?file=/src/weather.js
+- https://codesandbox.io/s/confident-buck-t4s1n?file=/src/App.js
