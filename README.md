@@ -1,5 +1,14 @@
 ## React JS Training
 
+#### Course Tracking 
+- https://docs.google.com/spreadsheets/d/1YD7zJsdMIRRuQQZdHroF7rx9ZUF4YatV/edit?usp=sharing&ouid=107471860931223719295&rtpof=true&sd=true
+
+#### Course Agena Day Wise
+- https://docs.google.com/document/d/1KZei1T6OCn5dvppVPRpDgV-zqNssfupWdioE35_qoeA/edit?usp=sharing
+
+#### Course Online Quiz
+- coming up
+
 #### Resources [BOOK]
 
 - https://tkssharma.gitbook.io/react-training/
@@ -18,19 +27,18 @@
 
 | Topics                                             | status      | Slide                                                                           | Sandbox                                                             | github |
 | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
-| What is React JS                                   | In progress | https://slides.com/tkssharmaa/introduction-to-react-232                         |
-| Introduction of React JS [P]                       | In Progress | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
-| Environment Setup [L]                              | In progress | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
-| Project Setup [L]                                  | In progress |                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
-| A Taste of JSX [p]                                 | In progress |                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
-| A Taste of Node & NPM [L]                          | In progress |
-| Startup with Webpack loader [L]                    | In progress | https://slides.com/tkssharmaa/webpack-deck-112#/3/0/0                           |
-| A Taste of ES6 [p]                                 | In progress |
-| A Taste of Transpilers [p]                         | In progress | https://slides.com/tkssharmaa/deck-6b2c9b86-147b-4de3-9405-8351df9df996-111#/10 |
-| Hello World with React JS (with NPM + webpack) [L] | In progress |
-| Hello World with React JS (without NPM) [L]        | In progress |
-| React using create react app                       | In progress |                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
-| React using sandbox Hello world                    | In progress |                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
+| What is React JS                                   | done| https://slides.com/tkssharmaa/introduction-to-react-232                         |
+| Introduction of React JS [P]                       | done | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
+| Environment Setup [L]                              | done | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
+| Project Setup [L]                                  | done |                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
+| A Taste of JSX [p]                                 | done|                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
+| A Taste of Node & NPM [L]                          | done |
+| Startup with Webpack loader [L]                    | done | https://slides.com/tkssharmaa/webpack-deck-112#/3/0/0                           |
+| A Taste of ES6 [p]                                 | done |
+| A Taste of Transpilers [p]                         | done | https://slides.com/tkssharmaa/deck-6b2c9b86-147b-4de3-9405-8351df9df996-111#/10 |
+| Hello World with React JS (with NPM + webpack) [L] | TBD |
+| React using create react app                       | done|                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
+| React using sandbox Hello world                    | done |                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
 
 ### Day1
 
@@ -50,10 +58,30 @@
 - https://codesandbox.io/s/dark-lake-u2n1s?file=/src/olympics-score.js
 - https://codesandbox.io/s/brave-antonelli-3d7r2
 
-Examples links
+### Examples links [Day1]
 
 - https://codesandbox.io/s/objective-keller-pq8c0?file=/src/index.js
 - https://codesandbox.io/s/objective-keller-pq8c0?file=/src/App.js
 - https://codesandbox.io/s/charming-burnell-o1sqo?file=/src/App.js
 - https://codesandbox.io/s/suspicious-cloud-f7qmk?file=/src/App.js
 - https://codesandbox.io/s/suspicious-cloud-f7qmk?file=/src/friends.js
+
+
+
+#### React JS State and Props [#02]
+
+| Topics                                             | status      | Slide                                                                           | Sandbox                                                             | github |
+| -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
+| What is React JS                                   | done| https://slides.com/tkssharmaa/introduction-to-react-232                         |
+| Introduction of React JS [P]                       | done | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
+| Environment Setup [L]                              | done | https://slides.com/tkssharmaa/deck-5-231#/6/0/0                                 |
+| Project Setup [L]                                  | done |                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
+| A Taste of JSX [p]                                 | done|                                                                                 | https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js |
+| A Taste of Node & NPM [L]                          | done |
+| Startup with Webpack loader [L]                    | done | https://slides.com/tkssharmaa/webpack-deck-112#/3/0/0                           |
+| A Taste of ES6 [p]                                 | done |
+| A Taste of Transpilers [p]                         | done | https://slides.com/tkssharmaa/deck-6b2c9b86-147b-4de3-9405-8351df9df996-111#/10 |
+| Hello World with React JS (with NPM + webpack) [L] | TBD |
+| React using create react app                       | done|                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
+| React using sandbox Hello world                    | done |                                                                                 | https://codesandbox.io/s/relaxed-rosalind-ckp92?file=/src/App.js    |
+
