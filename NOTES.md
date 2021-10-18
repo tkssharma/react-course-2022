@@ -45,12 +45,14 @@
 
 ### create create-react-app
 ```sh
+npm install -g create-react-app
+create-react-app hello-world
 npx create-react-app my-app
-cd my-app
+cd hello-world
 npm start
 ```
 
-[ES5] ---> bROWSER IS HAPPY --> OUTPUT 
+[ES5] ---> BROWSER IS HAPPY --> OUTPUT 
 [ES6/ES7/ES8 ---- 2015] --> --> ES5 --->  BROWSER ---> I DON'T UNDERSTAND THIS 
 
 
