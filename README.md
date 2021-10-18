@@ -12,6 +12,7 @@
 #### Resources [BOOK]
 
 - https://tkssharma.gitbook.io/react-training/
+- https://tkssharma.gitbook.io/react-training/react-js-basics/understanding-react-js
 
 
 #### Getting Started with React JS [#01]
