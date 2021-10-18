@@ -13,17 +13,15 @@
 
 - https://tkssharma.gitbook.io/react-training/
 
-#### Slides [slides]
+
+#### Getting Started with React JS [#01]
+
+##### Slides [slides]
 
 - https://slides.com/tkssharmaa/deck-5-231
 - https://slides.com/tkssharmaa/introduction-to-react-232
 - https://slides.com/tkssharmaa/deck-5-233
 - https://slides.com/tkssharmaa/deck-5-3-234
-- https://slides.com/tkssharmaa/react-29-235
-- https://slides.com/tkssharmaa/react-29-235-237
-- https://slides.com/tkssharmaa/react-29-236-238
-
-#### Getting Started with React JS [#01]
 
 | Topics                                             | status      | Slide                                                                           | Sandbox                                                             | github |
 | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
@@ -68,6 +66,12 @@
 
 
 ### React JS State and Props [#02]
+
+##### Slides [slides]
+
+- https://slides.com/tkssharmaa/react-29-235
+- https://slides.com/tkssharmaa/react-29-235-237
+- https://slides.com/tkssharmaa/react-29-236-238
 
 | Topics                                             | status      | Slide                                                                           | Sandbox                                                             | github |
 | -------------------------------------------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
