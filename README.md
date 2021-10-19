@@ -90,3 +90,15 @@
 
 - https://codesandbox.io/s/jovial-bose-hkimg?file=/src/weather.js
 - https://codesandbox.io/s/confident-buck-t4s1n?file=/src/App.js
+- https://tkssharma.gitbook.io/react-training/react-js-basics/understanding-react-js
+- https://codesandbox.io/s/polished-grass-r7jqq?file=/src/App.js:235-306
+- https://codesandbox.io/s/angry-pine-cn0uy?file=/src/App.js
+- https://github.com/tkssharma/react-course-2022
+- https://codesandbox.io/s/silly-haibt-zqtjr?file=/src/App.js
+- https://codesandbox.io/s/green-hooks-oszxo
+- https://codesandbox.io/s/upbeat-voice-ooddp
+- https://codesandbox.io/s/upbeat-voice-ooddp?file=/src/App.js
+- https://codesandbox.io/s/hopeful-minsky-9pt48
+- https://codesandbox.io/s/dazzling-hugle-wruwn
+- https://codesandbox.io/s/crazy-smoke-cvwh0?file=/src/App.js:1309-1313
+- https://codesandbox.io/s/react-simple-search-forked-frnq9?file=/src/Search.js:875-898
