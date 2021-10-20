@@ -106,16 +106,48 @@
 
 ### ES6 features [Day-03]
 
+ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard.  ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is [underway now](http://kangax.github.io/es5-compat-table/es6/).
+
+See the [ES6 standard](http://www.ecma-international.org/ecma-262/6.0/) for full specification of the ECMAScript 6 language.
+
+ES6 includes the following new features:
+- [arrows](#arrows)
+- [classes](#classes)
+- [enhanced object literals](#enhanced-object-literals)
+- [template strings](#template-strings)
+- [destructuring](#destructuring)
+- [default + rest + spread](#default--rest--spread)
+- [let + const](#let--const)
+- [iterators + for..of](#iterators--forof)
+- [generators](#generators)
+- [unicode](#unicode)
+- [modules](#modules)
+- [module loaders](#module-loaders)
+- [map + set + weakmap + weakset](#map--set--weakmap--weakset)
+- [proxies](#proxies)
+- [symbols](#symbols)
+- [subclassable built-ins](#subclassable-built-ins)
+- [promises](#promises)
 #### Ref Links 
 - https://github.com/lukehoban/es6features
 
 #### slides 
 - Quiz https://slides.com/tkssharmaa/deck-18-18-19-20-21-23-175#/4
-- Quiz 
+- Quiz https://quizzes.madza.dev/react/babel
 - Compare : https://slides.com/tkssharmaa/angular2_vs_react#/14
 - Quick Apps 
 - ES6 https://slides.com/tkssharmaa/ecmas-18#/4/3 
 - ES6 https://slides.com/tkssharmaa/deck-18-18#/2/1
 - ES6 https://slides.com/tkssharmaa/ecmas-18-38#/6
-- 
+
+#### ES6 with React JS 
+
+- slider https://codesandbox.io/s/slider-forked-b2dbx?file=/src/App.js
+- search https://codesandbox.io/s/search-forked-hqfjg
+- accordion https://codesandbox.io/s/accordion-forked-ljj23 
+- YouTube App https://codesandbox.io/s/utube-forked-97xp0
+- Weather App https://codesandbox.io/s/peaceful-cerf-tf4hg?file=/src/App.js:861-877
+- Github https://codesandbox.io/s/vigilant-galois-28vm5
+
+
 
