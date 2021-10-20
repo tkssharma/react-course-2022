@@ -102,3 +102,20 @@
 - https://codesandbox.io/s/dazzling-hugle-wruwn
 - https://codesandbox.io/s/crazy-smoke-cvwh0?file=/src/App.js:1309-1313
 - https://codesandbox.io/s/react-simple-search-forked-frnq9?file=/src/Search.js:875-898
+
+
+### ES6 features [Day-03]
+
+#### Ref Links 
+- https://github.com/lukehoban/es6features
+
+#### slides 
+- Quiz https://slides.com/tkssharmaa/deck-18-18-19-20-21-23-175#/4
+- Quiz 
+- Compare : https://slides.com/tkssharmaa/angular2_vs_react#/14
+- Quick Apps 
+- ES6 https://slides.com/tkssharmaa/ecmas-18#/4/3 
+- ES6 https://slides.com/tkssharmaa/deck-18-18#/2/1
+- ES6 https://slides.com/tkssharmaa/ecmas-18-38#/6
+- 
+
