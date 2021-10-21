@@ -151,3 +151,15 @@ ES6 includes the following new features:
 
 
 ### React Router SPA and LifeCycle Hooks [Day-04]
+
+#### slides 
+
+- https://wavez.github.io/react-hooks-lifecycle/
+- https://slides.com/tkssharmaa/react-29-235#/4
+- https://slides.com/tkssharmaa/30-hours-react-js-course-06
+- https://slides.com/tkssharmaa/30-hours-react-js-course-06-part-2
+- https://slides.com/tkssharmaa/react-29-235-237-240-242-244-246#/4
+
+
+- react componnet lifecycle Hooks 
+- 
