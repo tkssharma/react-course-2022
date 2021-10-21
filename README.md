@@ -160,6 +160,9 @@ ES6 includes the following new features:
 - https://slides.com/tkssharmaa/30-hours-react-js-course-06-part-2
 - https://slides.com/tkssharmaa/react-29-235-237-240-242-244-246#/4
 
+#### Examples 
 
-- react componnet lifecycle Hooks 
+- https://codesandbox.io/s/8k9k5zm060?file=/src/index.js
+- https://codesandbox.io/s/3q5q8y26k6?file=/src/index.js
+- https://codesandbox.io/s/2b7np?file=/src/App.js
 - 
