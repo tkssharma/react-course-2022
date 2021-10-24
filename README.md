@@ -190,3 +190,20 @@ ES6 includes the following new features:
 - https://codesandbox.io/s/quiet-framework-0dmj4
 - https://codesandbox.io/s/gifted-bouman-ewqe2
 - https://codesandbox.io/s/hungry-kapitsa-erfgn
+
+### Hooks in React and Context Apis 
+
+#### Quiz 
+
+- React Q/A
+- React JS Q/A
+
+#### Hooks with Apps
+
+- Use Reducer Hook 
+- use Context Hooks 
+- Context APIs with Functional Components 
+- useMemo and useEffect Hooks 
+- Using Hooks in React Applications 
+
+
