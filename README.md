@@ -191,7 +191,7 @@ ES6 includes the following new features:
 - https://codesandbox.io/s/gifted-bouman-ewqe2
 - https://codesandbox.io/s/hungry-kapitsa-erfgn
 
-### Hooks in React and Context Apis 
+### Hooks in React and Context Apis [Day-06]
 
 #### Quiz 
 
@@ -224,3 +224,14 @@ ES6 includes the following new features:
 - https://codesandbox.io/s/angry-beaver-p9h4d?file=/src/App.js:648-660
 
 
+### React Redux [Day-07]
+
+- https://codesandbox.io/s/stoic-shannon-ss34v?file=/src/App-fn.js
+- https://codesandbox.io/s/unruffled-rgb-0qnpy?file=/src/App.js
+- https://codesandbox.io/s/mystifying-roentgen-fj9el?file=/src/App.js
+- https://codesandbox.io/s/distracted-pond-8odi9?file=/src/App.js:475-484
+- https://codesandbox.io/s/distracted-pond-8odi9?file=/src/App.js:0-474
+- https://codesandbox.io/s/inspiring-bush-j6xd3?file=/src/App.js
+- https://app.diagrams.net/#G1sueeFpCDLW8KoDqu9fUlSKHI0zTmyi06
+- https://github.com/tkssharma/react-course-2022
+- https://codesandbox.io/s/naughty-maxwell-kr3id
