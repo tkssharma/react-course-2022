@@ -247,7 +247,7 @@ ES6 includes the following new features:
 - https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/todos?file=/src/containers/VisibleTodoList.js
 
 
-### Redux with Hooks and React Testing 
+### Redux with Hooks and React Testing [Day-09]
 
 - https://codesandbox.io/s/redux-thunk-demo-forked-rxtg7
  -https://codesandbox.io/s/react-redux-forked-hso55
@@ -268,4 +268,15 @@ ES6 includes the following new features:
 - EVENT - https://codesandbox.io/s/react-testing-library-onchange-forked-vyzfu
 - Hooks - https://codesandbox.io/s/jest-react-testing-library-forked-xgyyd 
 - Api call - https://codesandbox.io/s/romantic-hellman-7puub 
+
+
+### What is Next  [Day-10]
+
+- Typescriot 
+- React with typescript 
+- React certification with hackerrank 
+- React certification Test Demo 
+- Exploring webpack 
+- Exploring other Library with React 
+
 
