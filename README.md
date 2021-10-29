@@ -246,3 +246,26 @@ ES6 includes the following new features:
 - https://codesandbox.io/s/how-to-use-redux-with-react-hooks-andaxios-jluir?file=/src/components/users.js
 - https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/todos?file=/src/containers/VisibleTodoList.js
 
+
+### Redux with Hooks and React Testing 
+
+- https://codesandbox.io/s/redux-thunk-demo-forked-rxtg7
+ -https://codesandbox.io/s/react-redux-forked-hso55
+- https://codesandbox.io/s/redux-data-handler-example-1-forked-cij8e
+- https://codesandbox.io/s/redux-thunk-forked-i7kne?file=/reducers/reducers.js
+- https://codesandbox.io/s/how-to-use-redux-with-react-hooks-and-axios-forked-hp4v9
+- https://testing-library.com/docs/example-codesandbox/
+
+
+#### Testing using Jest and RTL
+
+- Testing  https://codesandbox.io/s/lucid-gates-7y2ut
+- https://codesandbox.io/s/jest-form-submit-mock-forked-hf7r0
+- https://codesandbox.io/s/react-testing-library-demo-forked-so5vh
+- https://codesandbox.io/s/react-testing-library-getbyrole-demo-forked-f2mo0
+- DOM access/events - https://codesandbox.io/s/react-testing-library-demo-forked-g4o0i 
+- EVENTS - https://codesandbox.io/s/react-testing-library-demo-forked-qvhcq 
+- EVENT - https://codesandbox.io/s/react-testing-library-onchange-forked-vyzfu
+- Hooks - https://codesandbox.io/s/jest-react-testing-library-forked-xgyyd 
+- Api call - https://codesandbox.io/s/romantic-hellman-7puub 
+
